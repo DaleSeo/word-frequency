@@ -1,5 +1,9 @@
 # Word Frequency Analyzer
 
+This program consists of two source files, `generate.js` and `analyze.js`.
+The first one selects random words from the dictionary file and writes to the input file.
+The other one reads the input file and count how many times each word appears and writes the result to the output file.
+
 ## How to generate words
 
 ```
